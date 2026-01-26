@@ -1,0 +1,23 @@
+{
+  "name": "remotion-cloud-renderer",
+  "version": "1.0.0",
+  "description": "Cloud-based Remotion renderer for Motion Graphics Agent",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@remotion/bundler": "^4.0.392",
+    "@remotion/renderer": "^4.0.392",
+    "@remotion/cli": "^4.0.392",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "remotion": "^4.0.392",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
