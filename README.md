@@ -1,6 +1,6 @@
 # 🎬 Remotion Cloud Renderer
 
-Cloud-based video renderer for Motion Graphics Agent using Remotion.
+ Cloud-based video renderer for Motion Graphics Agent using Remotion.
 
 ## 📋 Features
 
